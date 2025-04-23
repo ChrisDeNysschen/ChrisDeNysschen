@@ -2,6 +2,7 @@
 - 👀 I’m interested in UX / UI Design
 - 🌱 www.saddlelindedesign.co.za
 - 📫 Email: chris@saddlelinedesign.co.za
+  
 Creative Designer and Front-End Developer with Over a Decade of Experience
 
 A passionate and versatile Creative Designer with extensive expertise in UI/UX design and a strong foundation in front-end development. Skilled in crafting intuitive, visually appealing interfaces using tools such as Adobe Photoshop, Lightroom, Adobe XD, and prototyping tools like Balsamiq and Proto.io. Excellent at designing for modern web standards while ensuring exceptional user experiences.
