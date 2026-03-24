@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChrisDeNysschen
-- 👀 I’m interested in UX / UI Design
-- 🌱 www.saddlelindedesign.co.za
-- 📫 Email: chris@saddlelinedesign.co.za
+- 👀 I’m interested in Frontend Development and UX / UI Design
+- 📫 Email: denysschencj@gmail.com
   
 Creative Designer and Front-End Developer with almost 2 Decades of Experience
 
